@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filtr pilota</string>
+    <string name="service_label">Filtr podwójnych kliknięć pilota</string>
+    <string name="service_description">Ignoruje drugie wciśnięcie tego samego przycisku, jeśli przyjdzie zaraz po puszczeniu pierwszego (błąd sygnału pilota).</string>
+</resources>
